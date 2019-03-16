@@ -1,0 +1,65 @@
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\bin\Debug\CC Case Maker.exe.config
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\bin\Debug\CC Case Maker.exe
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\bin\Debug\CC Case Maker.pdb
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC Case Maker.csprojAssemblyReference.cache
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.resources
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC_Case_Maker.Properties.Resources.resources
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC Case Maker.csproj.GenerateResource.cache
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC Case Maker.csproj.CoreCompileInputs.cache
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC Case Maker.exe
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC Case Maker.pdb
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC_Case_Maker.add_thing.resources
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\bin\Debug\aa\CC Case Maker.resources.dll
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.aa.resources
+C:\Users\Philippos\source\repos\CC Case Maker\CC Case Maker\obj\Debug\aa\CC Case Maker.resources.dll
+D:\Projects\CC case\CC Case Maker\bin\Debug\CC Case Maker.exe.config
+D:\Projects\CC case\CC Case Maker\bin\Debug\CC Case Maker.exe
+D:\Projects\CC case\CC Case Maker\bin\Debug\CC Case Maker.pdb
+D:\Projects\CC case\CC Case Maker\bin\Debug\aa\CC Case Maker.resources.dll
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.csprojAssemblyReference.cache
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.add_thing.resources
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.resources
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Properties.Resources.resources
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.aa.resources
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.csproj.GenerateResource.cache
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.csproj.CoreCompileInputs.cache
+D:\Projects\CC case\CC Case Maker\obj\Debug\aa\CC Case Maker.resources.dll
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.exe
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.pdb
+D:\Projects\CC case\CC Case Maker\bin\Debug\en\CC Case Maker.resources.dll
+D:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.en.resources
+D:\Projects\CC case\CC Case Maker\obj\Debug\en\CC Case Maker.resources.dll
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.csprojAssemblyReference.cache
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.add_thing.resources
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.resources
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Properties.Resources.resources
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.aa.resources
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.en.resources
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.csproj.GenerateResource.cache
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.csproj.CoreCompileInputs.cache
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.exe
+G:\Projects\CC case\CC Case Maker\obj\Debug\CC Case Maker.pdb
+G:\Projects\CC case\CC Case Maker\bin\Debug\CC Case Maker.exe.config
+G:\Projects\CC case\CC Case Maker\bin\Debug\CC Case Maker.exe
+G:\Projects\CC case\CC Case Maker\bin\Debug\CC Case Maker.pdb
+G:\Projects\CC case\CC Case Maker\bin\Debug\aa\CC Case Maker.resources.dll
+G:\Projects\CC case\CC Case Maker\bin\Debug\en\CC Case Maker.resources.dll
+G:\Projects\CC case\CC Case Maker\obj\Debug\aa\CC Case Maker.resources.dll
+G:\Projects\CC case\CC Case Maker\obj\Debug\en\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Debug\CC Case Maker.exe.config
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Debug\CC Case Maker.exe
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Debug\CC Case Maker.pdb
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Debug\aa\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Debug\en\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC_Case_Maker.add_thing.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC_Case_Maker.Properties.Resources.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.aa.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC_Case_Maker.Form1.en.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC Case Maker.csproj.GenerateResource.cache
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC Case Maker.csproj.CoreCompileInputs.cache
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\aa\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\en\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC Case Maker.exe
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC Case Maker.pdb
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Debug\CC Case Maker.csprojAssemblyReference.cache

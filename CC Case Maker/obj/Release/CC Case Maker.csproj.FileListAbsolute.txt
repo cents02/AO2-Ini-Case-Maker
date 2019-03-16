@@ -1,0 +1,17 @@
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Release\CC Case Maker.exe.config
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Release\CC Case Maker.exe
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Release\CC Case Maker.pdb
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Release\aa\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\bin\Release\en\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC_Case_Maker.add_thing.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC_Case_Maker.Form1.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC_Case_Maker.Properties.Resources.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC_Case_Maker.Form1.aa.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC_Case_Maker.Form1.en.resources
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC Case Maker.csproj.GenerateResource.cache
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC Case Maker.csproj.CoreCompileInputs.cache
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\aa\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\en\CC Case Maker.resources.dll
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC Case Maker.exe
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC Case Maker.pdb
+C:\Users\Philippos\Desktop\CC case 1.5\CC Case Maker\obj\Release\CC Case Maker.csprojAssemblyReference.cache
